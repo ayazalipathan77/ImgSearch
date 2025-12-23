@@ -1,0 +1,7 @@
+{
+  "name": "VisionQuest: Offline Image Search",
+  "description": "A high-performance offline image similarity and semantic search dashboard designed for large professional collections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
